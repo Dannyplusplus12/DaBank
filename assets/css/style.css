@@ -185,7 +185,7 @@ html {
 }
 
 #slider {
-    background-image: url("/assets/img/slider/chicago.jpg");
+    background-image: url("../img/slider/chicago.jpg");
     background-repeat: no-repeat;
     background-position: top center;
     background-size: cover;
